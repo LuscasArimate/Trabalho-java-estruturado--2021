@@ -1,6 +1,14 @@
 # Trabalho-java-estruturado--2021
 Integrantes
 
--PEDRON LUCAS 
+
+
+-PEDRO LUCAS 
+
+
+
 -LUCAS 
+
+
+
 -ROBERT
